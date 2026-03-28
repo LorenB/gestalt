@@ -1,0 +1,23 @@
+# Binaries
+gestalt
+*.exe
+
+#Go
+*.so
+*.dylib
+*.test
+*.out
+
+vendor/
+
+# Python
+*.pyc
+__pycache__/
+*.pkl
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
